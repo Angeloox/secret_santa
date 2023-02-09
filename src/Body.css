@@ -1,0 +1,31 @@
+.body-container {
+  display: flex;
+}
+
+.body-container p {
+  font-size: 2em;
+  font-family: "Playball", cursive;
+  margin: 1em 3em 1em 0;
+}
+
+.body-left {
+  width: 50%;
+  margin-top: 5rem;
+}
+
+.body-right {
+  width: 50%;
+  margin-top: 5rem;
+}
+
+.body-container p {
+  text-align: center;
+}
+
+#sonia1 {
+  width: 84%;
+}
+
+#sonia2 {
+  width: 89%;
+}
